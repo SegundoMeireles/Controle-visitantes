@@ -4,7 +4,7 @@ from visitantes.models import Visitante
 
 from django.utils import timezone
 
-@login_required
+#@login_required
 
 def index(request):
 
